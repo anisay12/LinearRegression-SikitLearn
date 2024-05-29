@@ -1,1 +1,1 @@
-# LinearRegression-SikitLearn
+# LinearRegression-sklearn
