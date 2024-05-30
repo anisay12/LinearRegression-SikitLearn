@@ -88,10 +88,3 @@ The dataset used in this project is `USA_Housing.csv`. It contains the following
    prediction = ln.predict(x_test)
    ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
